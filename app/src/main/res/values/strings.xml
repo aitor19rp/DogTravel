@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DogTravel</string>
+    <string name="open_drawer">Menu abierto</string>
+    <string name="close_drawer">Menu cerrado</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">AIzaSyAtHA_VgPqiNJ9nZrfykr4rYM2Xuw1UbDY</string>
+</resources>

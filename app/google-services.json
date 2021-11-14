@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952890657525",
+    "firebase_url": "https://dogtravel-f2c32.firebaseio.com",
+    "project_id": "dogtravel-f2c32",
+    "storage_bucket": "dogtravel-f2c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952890657525:android:cfa8c7b99d75263bfad3bc",
+        "android_client_info": {
+          "package_name": "com.aitorramos.dogtravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952890657525-9r7p8t7lpg9h753okkrh7abh9d0552ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aitorramos.dogtravel",
+            "certificate_hash": "9a26602d409898e773cc693a08479755453abab4"
+          }
+        },
+        {
+          "client_id": "952890657525-41hgifqmc22qt5d7u5j644s4j5r9t0kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8St55H9w6iQEdmsC7uVtfdrKAa1F8HEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952890657525-41hgifqmc22qt5d7u5j644s4j5r9t0kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

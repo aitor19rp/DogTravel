@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/travels"
+            android:icon="@drawable/ic_travel"
+            android:title="Mis viajes"/>
+
+        <item
+            android:id="@+id/search"
+            android:icon="@drawable/ic_search"
+            android:title="Buscar"/>
+
+        <item
+            android:id="@+id/chat"
+            android:icon="@drawable/ic_chat"
+            android:title="Chats"/>
+
+    </group>
+
+    <item android:title="Otros">
+        <menu>
+            <item
+                android:id="@+id/logOut"
+                android:icon="@drawable/ic_logout"
+                android:title="Cerrar sesión"/>
+        </menu>
+    </item>
+</menu>
